@@ -1,0 +1,7 @@
+git init --> iniciar el proyecto
+git status --> ver el estado de los archivos
+git add --> agragar de working directory a staging area . (agregar todos los archivos)
+git commit --> tomar un screnshot del codigo y guarda en versiones de repositorio -m "comentario de la version"
+git branch --> trabajar con estados alternativos (master)
+git checkout --- --> moverse entre estados alternativos
+git log --> revisar las versiones de los arhivos
